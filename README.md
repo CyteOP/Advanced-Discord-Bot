@@ -1,17 +1,11 @@
-<a href="https://ghostybot.tk" align="center">
-     <img src=".github/Ghostybot-banner.png" alt="banner" />               
-</a>
 
-![license](https://img.shields.io/github/license/dev-caspertheghost/ghostybot?color=gr)
-![contr](https://img.shields.io/github/contributors/dev-caspertheghost/ghostybot)
-![stars](https://img.shields.io/github/stars/dev-caspertheghost/ghostybot?color=gr)
 
-# Ghostybot
+# Cyte Bot
 
 A Custom Discord bot with a lot of commands for Discord communities. (+140 commands) Economy, util, fun, music, admin, xp system, welcome messages, audit-logs and more!
 
-[![Add ghostybot](./.github/add-ghostybot.svg)](https://discord.com/oauth2/authorize?client_id=632843197600759809&scope=bot&permissions=8)
-[![Ghostybot Support server](./.github/join-support-server.svg)](https://discord.gg/XxHrtkA)
+[![Add ghostybot](./.github/add-ghostybot.svg)](https://discord.com/oauth2/authorize?client_id=754765403489828946&scope=bot&permissions=8)
+[![Ghostybot Support server](./.github/join-support-server.svg)](https://discord.gg/Yjd67NS)
 
 ### Disclaimer (if self-hosted)
 
