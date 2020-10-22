@@ -5,6 +5,7 @@
 A Custom Discord bot with a lot of commands for Discord communities. (+140 commands) Economy, util, fun, music, admin, xp system, welcome messages, audit-logs and more!
 
 [Add CyteBot](https://discord.com/oauth2/authorize?client_id=754765403489828946&scope=bot&permissions=8) 
+
 [CyteBot Support server](https://discord.gg/xf6AsPj)
 
 ### Disclaimer (if self-hosted)
